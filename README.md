@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="cnter">Hi there,I am Supriyo 👋</h1>
+🌱 I’m currently learning <strong>DSA and its Applications and Prompt Engineering form a winter cirtification program by IBM </strong>
+ 📫 How to reach me:<a href="www.linkedin.com/in/supriyo-jana-362386297" target="_blank">Supriyo Jana</a>
+ <p align="center">
+   <a href="www.linkedin.com/in/supriyo-jana-362386297" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="30"></a>
+  
+ </p>
+
+ 
+
